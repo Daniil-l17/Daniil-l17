@@ -167,6 +167,12 @@
       </a>
       <br>Node JS
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      </a>
+      <br>Express JS
+    </td>
     <td align="center" width="110" height="90">
       <a href="https://www.postgresql.org" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
