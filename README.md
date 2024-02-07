@@ -1,9 +1,9 @@
 
 <h1 align="left">:wave: Hello there! I'm Daniil Lukyanov</h1>
-<br>
-<br>
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+
 > General
+> 
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -62,6 +62,7 @@
     </td>
   </tr> 
 </table>
+
 > Code quality
 
 <table width='100%'>
