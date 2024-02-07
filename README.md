@@ -1,6 +1,4 @@
-<a href="https://github.com/siberiacancode">
-  <img  width="100%" height="650" margin-auto src="https://github.com/Daniil-l17/profile/assets/129774580/cd51967e-4ca4-4f5e-a7bf-e722fcac21ca" alt="" align="center"/>
-</a>
+
 <h1 align="left">:wave: Hello there! I'm Daniil Lukyanov</h1>
 <br>
 <br>
