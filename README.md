@@ -1,8 +1,8 @@
 
-<h1 align="left">:wave: Hello there! I'm Daniil Lukyanov</h1>
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+<h1 align="left">:wave: Привет, меня зовут Даниил!</h1>
+<h2 align="left" id="debabin-stack">🔥 Технический стек</h2>
 
-> General
+> Главные
 > 
 <table width='100%'>
   <tr>
