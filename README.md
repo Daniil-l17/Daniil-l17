@@ -103,6 +103,12 @@
       </a>
       <br>Redux
     </td>
+ <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://github.com/Daniil-l17/Daniil-l17/assets/129774580/1fe4ec30-541a-459d-a73b-6508beb11aff" width="75" height="45" alt="Zustand" />
+      </a>
+      <br>Zustand
+    </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
@@ -166,6 +172,12 @@
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
+    </td>
+          <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
