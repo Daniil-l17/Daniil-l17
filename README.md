@@ -109,6 +109,12 @@
       </a>
       <br>Zustand
     </td>
+ <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://assets.vercel.com/image/upload/v1630059453/swr/v1.png" width="75" height="45" alt="swr" />
+      </a>
+      <br>Zustand
+    </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
