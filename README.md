@@ -113,7 +113,7 @@
       <a href="#debabin-stack" >
         <img src="https://assets.vercel.com/image/upload/v1630059453/swr/v1.png" width="75" height="45" alt="swr" />
       </a>
-      <br>Zustand
+      <br>SWR
     </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
