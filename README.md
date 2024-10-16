@@ -2,11 +2,11 @@
 
 ```javascript
 const info = {
-  pronouns: "он" | "его",
+  pronouns: "he" | "him",
   languages: [Javascript, Typescript],
   technologies: [
     React, Nextjs, tanstackQuery, redux-toolkit, zustand, framer-motion
   ],
-  challenges: "Узнавать что-то новое каждый день"
+  challenges: "Learn something new every day"
 }
 ```
