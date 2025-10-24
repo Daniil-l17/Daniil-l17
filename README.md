@@ -3,7 +3,6 @@
 ```javascript
 const info = {
   pronouns: "he" | "him",
-  languages: [Javascript, Typescript],
-  challenges: "Learn something new every day"
+  languages: [Javascript, Typescript]
 }
 ```
