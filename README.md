@@ -3,6 +3,6 @@
 ```javascript
 const info = {
   pronouns: "he" | "him",
-  languages: [Javascript, Typescript]
+  languages: [JavaScript, TypeScript]
 }
 ```
